@@ -1,0 +1,262 @@
+html{
+    box-sizing:border-box
+}
+
+
+body{
+    overflow-x: hidden;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+  
+ 
+    
+   
+
+}
+
+
+#navbarSupportedContent{
+    padding-left:300px;
+    color:#fff;
+}
+.navbar-light .navbar-brand {
+padding-left:50px;
+}
+
+.nav-item{
+    padding: 12px 20px 12px 20px
+}
+.nav-item :hover{
+    background:rgb(134, 130, 130);
+    color:rgb(160,160,160);
+}
+.nav-link{
+    color:#fff;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+  
+    
+
+}
+.dropdown-menu a{
+  
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    
+}
+
+.header1 p{
+padding-right:50px;
+color:#fff;
+    font-weight: 600;
+    font-size: 17px;
+    text-transform: uppercase;
+  
+}
+
+.legal-advice{
+ 
+    color:green;
+    padding-left:300px;
+    font-weight: 600;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.container10{
+    background-image: url(Carousel-image.jpg);
+    height:500px;
+   background-repeat: no-repeat;
+   max-width:100%;
+   background-size:cover;
+
+}
+
+
+
+
+.my-container{
+    padding-top:110px;
+    padding-left:8px;
+   
+}
+.control1{
+    margin-left:50px;
+}
+#h1-find{
+    color:#13b9b9a6;
+    font-weight:600;
+    text-shadow: rgb(20, 17, 212);
+    font-size:40px;
+    text-align:center;
+}
+.search-button{
+margin:0 auto;
+padding: 100px;
+}
+
+
+
+.form-control{
+    width:400px;
+    height:60px;
+    border:1px solid #ccc ;
+    font-size:25px;
+    
+}
+.button1{
+    width:100%;
+    height:60px;
+}
+.my-button{
+    padding-left:25px;
+    
+}
+
+.block-quote{
+  background: #f7f7f7;
+  border:none;
+  margin-top:25px;
+  padding:10px 15px;
+  min-height:204px;
+  display:block;
+}
+
+.block-quote h4{
+    font-weight: bold;
+    padding-bottom: 0.55em;
+    color: #4B568A;
+    display:block;
+    font-size:18px;
+}
+.block-quote p{
+    padding-left:26px;
+    font-size:14px;
+}
+#name{
+    color:#555;
+    font-size:15px;
+    padding-left:26px;
+}
+.expert-lawyer{
+    font-size:17px;
+    line-height:24px;
+    margin-top:25px;
+    font-weight:normal;
+    color:#777;
+}
+span{
+    color:#4B568A;
+    font-size:25px;
+}
+.feature-list{
+    list-style:none;
+    font-size:16px;
+    color:#555;
+    line-height:30px;
+
+
+}
+.fa-star{
+    color:rgb(24, 23, 23);
+    margin-right:20px;
+    font-size:1.2em;
+  
+}
+
+.helper-begin{
+
+}
+.help-header{
+    padding:0;
+    margin:20px 0 40px;
+    border-bottom:1px solid #eee;
+}
+.form-group{
+    margin-left:-15px;
+    margin-left:-15px;
+}
+
+.form-group input{
+
+    display: block;
+
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px
+}
+
+textarea.form-control{
+   height:250px;
+   width:190%;
+   font-size: 14px;
+   color: #555;
+}
+label{
+    display:none;
+}
+.help-div{
+   text-align:center;
+ 
+    margin-left:300px;
+}
+.help-button{
+  
+}
+.tea{
+    background: #f7f7f7;
+}
+    
+.tea-row{
+    background-image: url(agent.jpg);
+  background-repeat: no-repeat;
+  min-height: 195px;
+  background-position: center;
+  object-fit: contain;
+
+}
+
+  .typ{
+      background-color:#777;
+     height: 315px;
+     color:#f7f7f7;
+  }
+
+  
+  /*
+  #image{
+    background:url(Team.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:300px;
+    text-align:center;
+    color:whitesmoke;
+    width:100%;
+
+}
+*/
+
+
+.typ a{
+color:#f7f7f7;
+background:#428bca;
+width:250px;
+}
+.container-inner{
+    padding-top:50px;
+}
+/*
+.fixed-fees table{
+   width:70%;
+   font-size: 18px;
+    margin: 20px 0 10px;/*
+}
